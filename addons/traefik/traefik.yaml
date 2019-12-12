@@ -23,7 +23,7 @@ spec:
         kubeaddons.mesosphere.io/name: cert-manager
   chartReference:
     chart: traefik
-    repo: https://mesosphere.github.io/charts/staging
+    repo: https://br-lewis.github.io/charts/staging
     version: 1.72.9
     values: |
       ---
